@@ -14,7 +14,6 @@
 
 **Main data table:**
 
-![img](https://cdn.nlark.com/yuque/0/2024/png/35767401/1715693947669-6bc3ae34-9e86-4292-a47f-6f942b2afe46.png)
 
 
 
