@@ -13,7 +13,7 @@
 <img src="https://cdn.nlark.com/yuque/0/2024/png/35767401/1715693968630-e175ddee-17e3-4c5b-9152-23fbd9d0dd72.png" alt="img" style="zoom:80%;" />
 
 **Main data table:**
-
+<img src="https://cdn.nlark.com/yuque/0/2024/png/35767401/1715693947669-6bc3ae34-9e86-4292-a47f-6f942b2afe46.png#averageHue=%23eceae8&clientId=uf4e76fed-bd5b-4&from=paste&height=227&id=u0b47cf7c&originHeight=284&originWidth=1145&originalType=binary&ratio=1.25&rotation=0&showTitle=false&size=101369&status=done&style=none&taskId=uf699bd2d-c739-4c7e-83b0-493c5e04fa4&title=&width=916" alt="image.png"  />
 
 
 
@@ -26,7 +26,7 @@ Two data sets are mainly used, all related to spatiotemporal action positioning:
 **UCF101-24:** The data source is the UCF101 data set (behavior recognition), and each video corresponds to an action. When multiple people appear, UCF101-24 only marks the position and action label of the action subject person.
 
 
-**Dataset annotation format:** The spatiotemporal data set annotation format used in this article is:  ava and multisports. **HIA and UCF101-24, and JHMDB all implement the generation of ava and multisports format annotations, which can be used directly in mmaction2.**
+**Dataset annotation format:** The spatiotemporal data set annotation format used in this article is:  ava and multisports. **Both HIA and UCF101-24 implement the generation of ava and multisports format annotations, which can be used directly in mmaction2.**
 
 
 
