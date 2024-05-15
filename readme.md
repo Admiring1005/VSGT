@@ -54,7 +54,7 @@ Two data sets are mainly used, all related to spatiotemporal action positioning:
 
 # Run code
 
-Before running, you need to use the ln -s command to soft link the hia, ucf, and jhmdb data set directories to mmaction2/data.
+Before running, you need to use the ln -s command to soft link the hia and ucf data set directories to mmaction2/data.
 
 ```python
 # Enter the mmaction2 directory
@@ -64,6 +64,4 @@ Before running, you need to use the ln -s command to soft link the hia, ucf, and
 python tools/test.py configs/detection/vsgt/VSGT/hia_vgst_small.py checkpoints/vsgt_hia.pth
 # UCF101-24
 python tools/test.py configs/detection/vsgt/VSGT/ucf_vgst_small.py checkpoints/vsgt_ucf.pth
-# JHMDB
-python tools/test.py configs/detection/vsgt/VSGT/jhmdb_vgst_small.py checkpoints/vsgt_jhmdb.pth
 ```
